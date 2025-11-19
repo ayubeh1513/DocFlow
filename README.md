@@ -129,8 +129,6 @@ Use the following pre-registered accounts to test the different roles.
 
 ## Screenshots
 
-*(Add screenshots of your application here to give a visual overview of the UI.)*
-
 | Login Screen | Submitter Dashboard | Reviewer Dashboard |
 | :---: | :---: | :---: |
 | ![Login Screen](login.png) | ![Submitter Dashboard](submitter.png) | ![Reviewer Dashboard](reviewer.png) |
