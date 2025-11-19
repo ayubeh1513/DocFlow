@@ -1,6 +1,7 @@
 # Document Flow Manager
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-FF0000?style=for-the-badge&logo=dart&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 A modern, role-based application built with Flutter and Supabase to streamline and manage internal submission and approval workflows with real-time status tracking.
