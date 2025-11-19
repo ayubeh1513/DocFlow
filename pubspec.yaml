@@ -9,13 +9,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  
+  # KEEP THIS LINE (latest version) and ensure it is properly indented:
+  supabase_flutter: ^2.5.0 
+  
+  flutter_dotenv: ^5.2.0 
   cupertino_icons: ^1.0.2
-
-  supabase_flutter: ^2.5.0
-
   intl: ^0.19.0
-
   file_picker: ^8.0.0+1
 
 
@@ -27,3 +27,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - supabase.env
