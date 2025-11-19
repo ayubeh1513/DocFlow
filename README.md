@@ -133,7 +133,7 @@ Use the following pre-registered accounts to test the different roles.
 
 | Login Screen | Submitter Dashboard | Reviewer Dashboard |
 | :---: | :---: | :---: |
-| ![Login Screen](link-to-your-screenshot.png) | ![Submitter Dashboard](link-to-your-screenshot.png) | ![Reviewer Dashboard](link-to-your-screenshot.png) |
+| ![Login Screen](login.png) | ![Submitter Dashboard](submitter.png) | ![Reviewer Dashboard](reviewer.png) |
 
 
 ---
